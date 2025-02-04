@@ -1,2 +1,2 @@
-"# Betting-Game" 
-"# Betting-Game" 
+"# Slot Machine Game" 
+"# Slot Machine Game" 
